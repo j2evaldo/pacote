@@ -1,5 +1,9 @@
 # CONVERSOR MOEDA REAL
 
+Este projeto foi criado para a aula de **Descomplicando a criação de pacotes de processamento de imagens em Python** da DIO
+
+O Link no Pypi é - [Instalador](https://pypi.org/project/CONVERSOR-MOEDA-REAL/)
+
 Description. 
 The package CONVERSOR_MOEDA_REAL is used to:
 	- Convert Float value in monetary Brazilian number
