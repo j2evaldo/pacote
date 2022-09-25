@@ -8,6 +8,8 @@ Description.
 The package CONVERSOR_MOEDA_REAL is used to:
 	- Convert Float value in monetary Brazilian number
 
+---
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install CONVERSOR_MOEDA_REAL
